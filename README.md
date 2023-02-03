@@ -8,5 +8,5 @@ Bridge 10th Project
 개발엔진: Unity  
 게임소개: 추억을 되살릴 수 있는 향수를 제조하여 사람들의 추억을 되찾아주세요.  
 
-![IMG](../Project-Nostalgia/IMG/Title.png)  
+![IMG](IMG/Title.png)  
 
